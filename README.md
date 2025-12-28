@@ -1,5 +1,3 @@
-# project_name
+# Redshift Pomodoro
 
-Template for python projects.
-
-Execute `init-project.sh "<your project name>"` to name everything correctly.
+Pomodoro timer using screen redshift to indicate remaining time.

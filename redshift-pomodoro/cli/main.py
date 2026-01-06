@@ -10,7 +10,7 @@ from viztools.ui.elements import Button, Label, CheckBox, Slider
 
 REDSHIFTS = [
     (0, 6500),
-    (20, 6500),
+    (24, 6500),
     (25, 5000),
     (35, 4000),
     (50, 3000),

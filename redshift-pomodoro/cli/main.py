@@ -11,10 +11,10 @@ from viztools.ui.elements import Button, Label, CheckBox, Slider
 REDSHIFTS = [
     (0, 6500),
     (24, 6500),
-    (25, 5000),
-    (35, 4000),
-    (50, 3000),
-    (70, 2000),
+    (25, 4500),
+    (35, 3500),
+    (50, 2500),
+    (70, 1500),
 ]
 DEFAULT_REDSHIFT = 6500
 RECOVERY_SPEED = 4.0
